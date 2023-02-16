@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+
+.item1{
+    background-color: red;
+    width: 200;
+    height: 200;
+}
+.item2{
+   background-color: blue;
+    width: 200;
+    height: 200;
+}
+ 
+.item3{
+    background-color: green;
+    width: 200;
+    height: 200;
+}
+ .container{
+background-color: white;
+display: flex;
+font-size: 50 ;
+flex-direction: row;
+flex-wrap: wrap;
+padding: 20px;
+justify-content: center;
+
+ }
